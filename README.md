@@ -46,6 +46,9 @@ This is a React.js-based Employee Management Dashboard application that provides
 ## Folder Structure
 
 // for run the application
+
+npm run dev
+
 ## Getting Started
 
 ### Prerequisites
