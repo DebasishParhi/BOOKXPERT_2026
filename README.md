@@ -58,6 +58,6 @@ npm run dev
 ### Installation
 
 1. Clone the repository
-2. npm install (node version > 18 )
+2. npm install (node version > 18+ )
 
 
